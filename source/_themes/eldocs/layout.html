@@ -50,13 +50,13 @@
 	
 	{%- block linktags %}
 	    {%- if hasdoc('about') %}
-	    <link rel="author" title="{{ _('About these documents') }}" href="{{ pathto('about') }}" />
+	    <link rel="author" title="{{ _('Sobre estes documentos') }}" href="{{ pathto('about') }}" />
 	    {%- endif %}
 	    {%- if hasdoc('genindex') %}
 	    <link rel="index" title="{{ _('Index') }}" href="{{ pathto('genindex') }}" />
 	    {%- endif %}
 	    {%- if hasdoc('search') %}
-	    <link rel="search" title="{{ _('Search') }}" href="{{ pathto('search') }}" />
+	    <link rel="search" title="{{ _('Pesquisa') }}" href="{{ pathto('search') }}" />
 	    {%- endif %}
 	    {%- if hasdoc('copyright') %}
 	    <link rel="copyright" title="{{ _('Copyright') }}" href="{{ pathto('copyright') }}" />
@@ -131,7 +131,7 @@
 				{% if next %}
 				<span class="next">Próximo Tópico: <a href="{{ next.link }}">{{ next.title }}</a></span>
 				{% endif %}
-				<a href="#header" title="Return to top">Topo</a>
+				<a href="#header" title="Voltar ao topo">Topo</a>
 			</p>
 			<p><a href="{{ project_url }}">{{ project }}</a> &ndash; Copyright &copy; {{ copyright }}</a> &ndash; Última atualização: {{ last_updated }}</p>
 		</div><!-- /#footer -->
