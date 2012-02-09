@@ -14,8 +14,8 @@ autorais para a obra original:
 1) Concessão de Licença de Direitos Autorais
 ********************************************
 
-Licensor grants You a worldwide, royalty-free, non-exclusive, sublicensable
-license, for the duration of the copyright, to do the following:
+O Licenciante concede a você uma licença mundial, isenta de royalties,
+não-exclusiva, sublicenciável, para a duração do direito autoral, para fazer o seguinte:
 
 	*a)* to reproduce the Original Work in copies, either alone or as part of
 	a collective work;
