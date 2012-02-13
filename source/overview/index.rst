@@ -1,16 +1,16 @@
-####################
-CodeIgniter Overview
-####################
+###################
+Sobre o CodeIgniter
+###################
 
-The following pages describe the broad concepts behind CodeIgniter:
+As seguintes páginas descrevem os conceitos por trás do CodeIgniter:
 
 .. toctree::
 	:titlesonly:
 	
-	Getting Started <getting_started>
-	CodeIgniter at a Glance <at_a_glance>
+	Iniciando <getting_started>
+	CodeIgniter num relance <at_a_glance>
 	CodeIgniter Cheatsheets <cheatsheets>
-	Supported Features <features>
-	Application Flow Chart <appflow>
+	Características suportadas <features>
+	Flow Chart <appflow>
 	Model-View-Controller <mvc>
-	Architectural Goals <goals>
+	Objetivos <goals>
