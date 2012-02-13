@@ -2,31 +2,30 @@
 Design and Architectural Goals
 ##############################
 
-Our goal for CodeIgniter is maximum performance, capability, and
-flexibility in the smallest, lightest possible package.
+O objetivo do CodeIgniter é máxima performance, capacidade e flexibilidade
+com o mínimo e mais leve no pacote.
 
-To meet this goal we are committed to benchmarking, re-factoring, and
-simplifying at every step of the development process, rejecting anything
-that doesn't further the stated objective.
+Para atingir este objetivo nós estamos empenhados em benchmarking, re-factoring, e
+simplificando a cada passo do processo de desenvolvimento, rejeitando qualquer coisa
+que não faz mais o objectivo declarado.
 
-From a technical and architectural standpoint, CodeIgniter was created
-with the following objectives:
+Do ponto de vista técnico e arquitetônico, CodeIgniter foi criado com os seguintes
+objetivos:
 
--  **Dynamic Instantiation.** In CodeIgniter, components are loaded and
-   routines executed only when requested, rather than globally. No
-   assumptions are made by the system regarding what may be needed
-   beyond the minimal core resources, so the system is very light-weight
-   by default. The events, as triggered by the HTTP request, and the
-   controllers and views you design will determine what is invoked.
--  **Loose Coupling.** Coupling is the degree to which components of a
-   system rely on each other. The less components depend on each other
-   the more reusable and flexible the system becomes. Our goal was a
-   very loosely coupled system.
--  **Component Singularity.** Singularity is the degree to which
-   components have a narrowly focused purpose. In CodeIgniter, each
-   class and its functions are highly autonomous in order to allow
-   maximum usefulness.
 
-CodeIgniter is a dynamically instantiated, loosely coupled system with
-high component singularity. It strives for simplicity, flexibility, and
-high performance in a small footprint package.
+-  **Instância dinâmica.** No CodeIgniter, os componentes e rotinas são carregados
+   e executadas apenas quando solicitados, ao invés de globalmente. Não são feitas
+   suposições pelo sistema sobre o que pode ser necessário além dos recursos básicos
+   mínimos, de modo que o sistema é muito leve por padrão.
+   Os eventos, desencadeadas pelo pedido de HTTP, e os controllores e views que projeto
+   vai determinar o que é invocado.
+-  **Acoplamento Mínimo.** Acoplamento é o grau ao qual os componentes de um sistema
+   dependem um do outro. Quanto menos os componentes dependerem uns dos outros o mais
+   reutilizável e flexível sistema se torna. Nosso objetivo é um sistema  muito flexível.
+-  **Singularidade de Componente.** A singularidade é o grau em que componentes têm uma
+   finalidade estreitamente focada. No CodeIgniter, cada classe e as suas funções são
+   altamente autónomas, a fim de permitir utilidade máxima.
+
+O CodeIgniter é um sistema dinamicamente instanciado, de baixo acoplamento com
+singularidade de componente alta. Esforça-se por simplicidade, flexibilidade e
+alto desempenho em um pacote reduzidos.
