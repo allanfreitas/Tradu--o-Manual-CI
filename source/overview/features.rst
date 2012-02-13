@@ -1,46 +1,48 @@
-####################
-CodeIgniter Features
-####################
+##############################
+Características do CodeIgniter
+##############################
 
-Features in and of themselves are a very poor way to judge an
-application since they tell you nothing about the user experience, or
-how intuitively or intelligently it is designed. Features don't reveal
-anything about the quality of the code, or the performance, or the
-attention to detail, or security practices. The only way to really judge
-an app is to try it and get to know the code.
-`Installing <../installation/>`_ CodeIgniter is child's play so we
-encourage you to do just that. In the mean time here's a list of
-CodeIgniter's main features.
+Características em si mesmas são uma forma muito pobre para julgar uma
+aplicação, uma vez que não lhe dizem nada sobre a experiência do usuário,
+ou como intuitivamente ou de forma inteligente foi concebido.
+Características não revelam nada sobre a qualidade do código, desempenho,
+a atenção às práticas de detalhe ou de segurança. A única maneira de realmente
+julgar uma aplicação é testá-la e conhecer o código.
 
--  Model-View-Controller Based System
--  Extremely Light Weight
--  Full Featured database classes with support for several platforms.
--  Active Record Database Support
--  Form and Data Validation
--  Security and XSS Filtering
--  Session Management
--  Email Sending Class. Supports Attachments, HTML/Text email, multiple
-   protocols (sendmail, SMTP, and Mail) and more.
--  Image Manipulation Library (cropping, resizing, rotating, etc.).
-   Supports GD, ImageMagick, and NetPBM
--  File Uploading Class
--  FTP Class
--  Localization
--  Pagination
--  Data Encryption
+`Instalar <../installation/>`_ o CodeIgniter é brincadeira de criança por isso
+que convido você a fazer exatamente isso.
+Nesse meio tempo, aqui está uma lista das principais características do
+CodeIgniter.
+
+-  Sistema baseado no Model-View-Controller
+-  Extremamente leve
+-  Suporte completo a banco de dados em diversas plataformas.
+-  Suporte de Active Record Database
+-  Validação de formulário e dados
+-  Segurança e Filtro de XSS
+-  Gestão de Session
+-  Classe de envio de e-mail. Suporta anexos, emails HTML e Texto, vários protocolos
+   (sendmail, SMTP, e Mail) e muito mais.
+-  Biblioteca de manipulação de imagem (corte, redimensionamento, rotação, etc...).
+   Suporta GD, ImageMagick e NetPBM
+-  Classe de Upload de Arquivo
+-  Classe de FTP
+-  Internacionalização
+-  Paginação
+-  Criptação de dados
 -  Benchmarking
--  Full Page Caching
+-  Cache completo de página
 -  Error Logging
--  Application Profiling
--  Calendaring Class
--  User Agent Class
--  Zip Encoding Class
--  Template Engine Class
--  Trackback Class
--  XML-RPC Library
--  Unit Testing Class
--  Search-engine Friendly URLs
--  Flexible URI Routing
--  Support for Hooks and Class Extensions
--  Large library of "helper" functions
+-  Profiling de aplicação
+-  Classe de Calendário
+-  Classe para o User Agent
+-  Classe de Zip Encoding
+-  Classe de Template Engine
+-  Classe de Trackback
+-  Biblioteca de XML-RPC
+-  Classe de Unit Testing
+-  URL Amigáveis com SEO
+-  URI routing flexiveis
+-  Suporta Hooks e extensões de classes
+-  Ampla biblioteca de "helper"
 
