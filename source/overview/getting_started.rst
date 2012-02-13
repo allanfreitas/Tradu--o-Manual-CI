@@ -1,24 +1,22 @@
-################################
-Getting Started With CodeIgniter
-################################
+###########################
+Iniciando com o CodeIgniter
+###########################
 
-Any software application requires some effort to learn. We've done our
-best to minimize the learning curve while making the process as
-enjoyable as possible.
+Qualquer aplicativo de software exige algum esforço para aprender. Nós
+fizemos o nosso melhor para minimizar a curva de aprendizagem, tornando
+o processo o mais agradável possível.
 
-The first step is to :doc:`install <../installation/index>`
-CodeIgniter, then read all the topics in the **Introduction** section of
-the Table of Contents.
+O primeiro passo é :doc:`instalar <../installation/index>` o CodeIgniter,
+depois ler todos os tópicos da seção de  **Introdução** dos Conteúdos.
 
-Next, read each of the **General Topics** pages in order. Each topic
-builds on the previous one, and includes code examples that you are
-encouraged to try.
+Depois, leia cada página dos **Tópicos Gerais** na sequência. Cada tópico
+foi construído com base no anterior e incluí exemplos de códigos que encorajamos
+você a tentar.
 
-Once you understand the basics you'll be ready to explore the **Class
-Reference** and **Helper Reference** pages to learn to utilize the
-native libraries and helper files.
+Uma vez que tenha entendido você estará pronto para explorar as páginas de
+**Referências das Classes** e **Referências dos Helpers** para aprender como usar
+as bibliotecas nativas e os arquivos de helper.
 
-Feel free to take advantage of our `Community
-Forums <http://codeigniter.com/forums/>`_ if you have questions or
-problems, and our `Wiki <http://codeigniter.com/wiki/>`_ to see code
-examples posted by other users.
+Fique a vontê para chatear o `Forúm <http://codeigniter.com/forums/>`_ se você tiver
+alguma questão ou problema, ou a nossa `Wiki <http://codeigniter.com/wiki/>`_ para ver
+exemplo postados por outros usuários.
